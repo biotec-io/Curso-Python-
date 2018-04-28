@@ -7,4 +7,4 @@ En este repositorio se pondra todo lo relacionado con el curso de Python
 3. Configurar correctamente el editor
 
 # Problemas #
-1. Múltiplos de 3 y 5: Encuentra todos los números que son múltiplos de 3 y 5 que están antes del 1000.
+1. Múltiplos de 3 y 5: Encuentra todos los números que son múltiplos de 3 o 5 que están antes del 1000.
